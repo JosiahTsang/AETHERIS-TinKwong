@@ -12,7 +12,7 @@ An app and web page that turns idle large-screen devices into full-screen deskto
 [Click here to open the web version](https://aetheris-bynintonation.netlify.app/)
 
 ## 📱 Download Installation packages (Android, Windows 10/11, Android TV)
-You can download the latest Installation packages from the [Releases](https://github.com/JosiahTsang/AETHERIS-TinKwong/releases/tag/v1.1.0) page.
+You can download the latest Installation packages from the [Releases](https://github.com/JosiahTsang/AETHERIS-TinKwong/releases/tag/v1.2.0) page.
 
 ## 💻 About the Developer
 By Josiah. A geek entertainment project made purely in spare time.
